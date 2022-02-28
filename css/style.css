@@ -284,13 +284,13 @@ color: #fff;
 }
 
 .cta-links{
+    
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .cta-heading{
-    margin-top: 0;
     margin-bottom: 40px;
     text-align: center;
     font-family: "Open Sans Condensed", "Open Sans";
